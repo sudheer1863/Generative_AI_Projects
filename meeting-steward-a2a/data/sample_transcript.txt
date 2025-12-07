@@ -1,0 +1,35 @@
+Meeting Title: Q4 Marketing Strategy Review - New Product Launch Date: 2025-12-05 Attendees: Sarah (Marketing Lead), Tom (Product Manager), Alex (Content Specialist), Maria (Sales Liaison), David (Finance Analyst - New Attendee) Topic: Finalizing the launch plan and budget allocation for 'Project Nova'
+
+(09:00) Sarah: Good morning, everyone. Thanks for joining the final pre-launch sync for Project Nova. We're launching in ten days, so let's lock down the critical path items: pricing, assets, and sales enablement.
+
+(09:02) Tom: The product is ready, but we need to resolve pricing tiers immediately. My initial proposal was Tier A at $49/month and Tier B (Pro) at $99/month. I want to run those past David.
+
+(09:03) David: Based on our projected Cost of Goods Sold and target profit margin, the $49 entry point is solid for market penetration, but the $99 tier, while profitable, is slightly aggressive compared to competitors' mid-range offerings. I recommend ensuring the $99 Tier B clearly includes at least three high-value, unique features that justify the 2x price jump, such as Advanced Reporting and Priority Support.
+
+(09:05) Maria: David's point is crucial. The sales team can't sell on price alone. We need clear, distinct value propositions. For example, Tier B should include the Multi-User Collaboration feature—that’s what our enterprise clients are always asking for.
+
+(09:06) Tom: Multi-User Collaboration is a huge lift. We were going to hold that for the Q1 Enterprise launch. If we include it now, we delay the current launch by three days.
+
+(09:07) Sarah: No, we cannot delay the December 15th launch date. That's a non-negotiable hard deadline. Tom, let's compromise: include the Advanced Reporting and Priority Support in Tier B now, and commit to releasing Multi-User Collaboration as an add-on or update in mid-January.
+
+(09:08) Tom: Deal. So, the Key Decision is: Tier A ($49) vs. Tier B ($99) which includes Advanced Reporting and Priority Support. I will finalize the precise feature mapping for both tiers and upload the specification document by EOD Monday. Action Item for Tom.
+
+(09:10) Alex: Great. On the marketing assets side, the launch video is 80% done. I'm stuck waiting for the UI B-roll footage and the finalized feature list to complete the voiceover and on-screen graphics. Tom, I absolutely need that B-roll by Saturday morning so I can work on it over the weekend.
+
+(09:11) Tom: My apologies, Alex. I’m running a bit behind. I will make that my #1 priority immediately after this call. You will have the B-roll footage by 11:00 AM today (Friday). Action Item for Tom.
+
+(09:12) Sarah: Thank you, Tom. Alex, once you have the assets and the feature mapping on Monday, can you guarantee all copy—website, pricing page, and the main launch blog post—is finished and submitted to legal by Wednesday, December 11th?
+
+(09:13) Alex: Yes, with the feature map and B-roll locked, Wednesday is firm. Action Item for Alex.
+
+(09:14) Maria: For sales enablement, I'm concerned about objection handling, especially around the high $99 price tag without Multi-User Collaboration. I will schedule a dedicated, mandatory Sales Objection Training Session for Tuesday morning next week, including key scenarios. I need Tom to dedicate 90 minutes to this session to answer deep-dive product questions. Action Item for Maria.
+
+(09:16) Tom: I'm booked for 90 minutes. Please send the calendar invite.
+
+(09:17) Sarah: Perfect. David, will the confirmed pricing tiers impact our overall Q4 budget?
+
+(09:18) David: No, the pricing is sound. However, I noticed we haven't allocated a budget for the post-launch performance marketing audit. We need to track ROI carefully. I'd like to propose $5,000 for an external consultant to conduct a detailed post-launch analysis by the end of January.
+
+(09:19) Sarah: Excellent proactive suggestion, David. Approved. Let's make that a Key Decision and budget line item. Action Item for David to finalize the SOW for that audit.
+
+(09:20) Sarah: Final summary: Launch date holds. Pricing is set, feature mapping by Monday. Assets locked by Wednesday. Sales training is scheduled for Tuesday. David is setting up the post-launch audit. We are on track. Thank you, team.

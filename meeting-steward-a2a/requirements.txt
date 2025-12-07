@@ -1,0 +1,44 @@
+# Core dependencies
+langgraph>=0.2.0
+langchain>=0.1.0
+langchain-core>=0.1.0
+
+# Web UI
+streamlit>=1.30.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Data validation
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Audio processing
+faster-whisper>=0.10.0
+openai-whisper>=20231117
+pydub>=0.25.1
+soundfile>=0.12.1
+librosa>=0.10.0
+numpy<2.0.0
+
+# Diarization (optional - install if using WhisperX)
+# whisperx>=3.1.0
+
+# HTTP client for Ollama
+requests>=2.31.0
+
+# Utilities
+python-dotenv>=1.0.0
+python-dateutil>=2.8.0
+
+# Data handling
+pandas>=2.0.0
+
+# Logging
+rich>=13.0.0
+
+# Development tools (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+ruff>=0.1.0
